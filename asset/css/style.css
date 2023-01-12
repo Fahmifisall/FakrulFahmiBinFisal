@@ -24,6 +24,12 @@ body {
   width: 940px;
 }
 
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
 #mainpic h1
 {
 position:absolute;
